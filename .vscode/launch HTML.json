@@ -6,7 +6,7 @@
             "name": "Launch HTML",
             "request": "launch",
             "type": "msedge",
-            "url": "localhost:8080/ProgJava/Softwares/Index.html",
+            "url": "https://localhost:8080/ProgJava/Softwares/Index.html",
             "webRoot": "${workspace"
        }
  
